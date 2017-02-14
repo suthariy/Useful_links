@@ -5,4 +5,5 @@ Git:
   2. http://marklodato.github.io/visual-git-guide/index-en.html 
   3. http://rogerdudler.github.io/git-guide/
   4. http://gitready.com/
+  5. https://backlogtool.com/git-guide/en/intro/intro1_1.html
  
