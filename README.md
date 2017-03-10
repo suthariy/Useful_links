@@ -7,3 +7,5 @@ Git:
   4. http://gitready.com/
   5. https://backlogtool.com/git-guide/en/intro/intro1_1.html
  
+BeanStalk:
+http://stackoverflow.com/questions/21200251/avoid-rebuilding-node-modules-in-elastic-beanstalk
