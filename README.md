@@ -20,3 +20,6 @@ https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/instal
 Deploying java application with MAven
 
 https://aws.amazon.com/blogs/developer/deploying-java-applications-on-elastic-beanstalk-from-maven/
+
+spring boot
+http://kaviddiss.com/2016/02/28/deploying-microservice-spring-boot-to-amazon-elastic-beanstalk/
