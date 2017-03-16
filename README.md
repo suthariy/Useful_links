@@ -14,3 +14,8 @@ https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-confi
 Mongodb installation:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04#part-three-configuring-remote-access-(optional)
 https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/install-mongodb-on-amazon-ec2.html
+
+
+Deploying java application with MAven
+
+https://aws.amazon.com/blogs/developer/deploying-java-applications-on-elastic-beanstalk-from-maven/
