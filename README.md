@@ -23,3 +23,6 @@ https://aws.amazon.com/blogs/developer/deploying-java-applications-on-elastic-be
 
 spring boot
 http://kaviddiss.com/2016/02/28/deploying-microservice-spring-boot-to-amazon-elastic-beanstalk/
+
+Maven
+http://roufid.com/no-main-manifest-attribute-in-app-jar/
