@@ -14,6 +14,7 @@ https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-confi
 
 http://www.deryasezen.com/tag/ebextensions/
 
+http://www.delarre.net/posts/elasticbeanstalk-vpc-fun/
 
 Mongodb installation:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04#part-three-configuring-remote-access-(optional)
