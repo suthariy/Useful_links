@@ -12,6 +12,8 @@ BeanStalk:
 http://stackoverflow.com/questions/21200251/avoid-rebuilding-node-modules-in-elastic-beanstalk
 https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-configuration-files-ebextensions-9a4502a26e3c#.e380bvt48
 
+https://edwardsamuel.wordpress.com/2015/07/17/enable-https-and-http-redirect-on-aws-elastic-beanstalk/
+
 http://www.deryasezen.com/tag/ebextensions/
 
 http://www.delarre.net/posts/elasticbeanstalk-vpc-fun/
