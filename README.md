@@ -12,6 +12,9 @@ BeanStalk:
 http://stackoverflow.com/questions/21200251/avoid-rebuilding-node-modules-in-elastic-beanstalk
 https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-configuration-files-ebextensions-9a4502a26e3c#.e380bvt48
 
+http://www.deryasezen.com/tag/ebextensions/
+
+
 Mongodb installation:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04#part-three-configuring-remote-access-(optional)
 https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/install-mongodb-on-amazon-ec2.html
