@@ -18,6 +18,9 @@ http://www.deryasezen.com/tag/ebextensions/
 
 http://www.delarre.net/posts/elasticbeanstalk-vpc-fun/
 
+http://ethanmccreadie.com/determine-elastic-beanstalk-application-version-number-via-cli.html
+
+
 Mongodb installation:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04#part-three-configuring-remote-access-(optional)
 https://mongodb-documentation.readthedocs.io/en/latest/ecosystem/tutorial/install-mongodb-on-amazon-ec2.html
