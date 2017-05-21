@@ -7,6 +7,7 @@ Git:
   4. http://gitready.com/
   5. https://backlogtool.com/git-guide/en/intro/intro1_1.html
   https://github.com/GarageGames/Torque2D/wiki/Cloning-the-repo-and-working-with-Git
+  https://try.github.io/levels/1/challenges/1
  
 BeanStalk:
 http://stackoverflow.com/questions/21200251/avoid-rebuilding-node-modules-in-elastic-beanstalk
