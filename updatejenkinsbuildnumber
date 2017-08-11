@@ -1,0 +1,7 @@
+Navigate to https://jenkins /script
+item = Jenkins.instance.getItemByFullName("MANAGE.LAUNCH_CONFIGURATION")
+//THIS WILL REMOVE ALL BUILD HISTORY
+item.builds.each() { build ->
+  build.delete()
+}
+item.updateNextBuildNumber(1)
