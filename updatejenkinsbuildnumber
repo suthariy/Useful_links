@@ -1,4 +1,4 @@
-Navigate to https://jenkins /script
+Navigate to https://jenkins site url /script
 item = Jenkins.instance.getItemByFullName("MANAGE.LAUNCH_CONFIGURATION")
 //THIS WILL REMOVE ALL BUILD HISTORY
 item.builds.each() { build ->
