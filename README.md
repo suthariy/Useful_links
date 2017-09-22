@@ -37,3 +37,9 @@ http://kaviddiss.com/2016/02/28/deploying-microservice-spring-boot-to-amazon-ela
 
 Maven
 http://roufid.com/no-main-manifest-attribute-in-app-jar/
+
+
+expand an existing partion:
+-------------
+$ sudo growpart /dev/xvdf 1
+$ sudo resize2fs /dev/xvda1
