@@ -51,3 +51,6 @@ https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80
 https://devopscube.com/mount-ebs-volume-ec2-instance/
 
 https://netdevops.me/tags/python/
+
+
+https://etcher.io/   (Creating Bootable disks)
