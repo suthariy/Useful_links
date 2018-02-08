@@ -54,3 +54,6 @@ https://netdevops.me/tags/python/
 
 
 https://etcher.io/   (Creating Bootable disks)
+
+
+https://dev.to/j_sakamoto/selenium-testing---how-to-sign-in-to-two-factor-authentication-2joi
