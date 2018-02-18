@@ -57,3 +57,5 @@ https://etcher.io/   (Creating Bootable disks)
 
 
 https://dev.to/j_sakamoto/selenium-testing---how-to-sign-in-to-two-factor-authentication-2joi
+
+http://jessicadeen.com/tech/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/
