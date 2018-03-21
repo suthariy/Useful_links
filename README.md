@@ -59,3 +59,7 @@ https://etcher.io/   (Creating Bootable disks)
 https://dev.to/j_sakamoto/selenium-testing---how-to-sign-in-to-two-factor-authentication-2joi
 
 http://jessicadeen.com/tech/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/
+
+
+
+http://www.tothenew.com/blog/streaming-videos-on-demand-using-amazon-cloudfront-and-s3/  
