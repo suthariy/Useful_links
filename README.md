@@ -63,3 +63,10 @@ http://jessicadeen.com/tech/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-te
 
 
 http://www.tothenew.com/blog/streaming-videos-on-demand-using-amazon-cloudfront-and-s3/  
+
+
+
+DOCKER:
+https://www.aquasec.com/wiki/display/containers/Containers+vs+Traditional+Application+Model
+https://github.com/docker/labs
+https://training.play-with-docker.com/alacart/
