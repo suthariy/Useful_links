@@ -66,7 +66,7 @@ http://www.tothenew.com/blog/streaming-videos-on-demand-using-amazon-cloudfront-
 
 
 
-DOCKER:
+#DOCKER:
 https://www.aquasec.com/wiki/display/containers/Containers+vs+Traditional+Application+Model
 https://github.com/docker/labs
 https://training.play-with-docker.com/alacart/
